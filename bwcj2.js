@@ -142,8 +142,8 @@ async function main() {
 //body内容 每天定时改。activityId：活动id，keyWords：活动口令，appid：固定id
         body:  `{
   
-            "activityId": "961633325138382848",
-            "keyWords": "中华第一龙",
+            "activityId": "962034615110811649",
+            "keyWords": "以茶会友以友为龙",
             "appid": "wxafec6f8422cb357b"
         } `
     }
